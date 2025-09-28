@@ -1,6 +1,6 @@
 A = Q spell
-X = E spell
-B = W spell
+B = E spell
+X = W spell
 Y = R spell (ultimate ability)
 
 LB = Summoner spell 1 (D)
@@ -18,4 +18,5 @@ Left joystick = Move cursor
 Right joystick (CLICK) = Left mouseclick
 
 Right trigger (RT) = Spam right-click - Move
+
 Left trigger (LT) = Recall (B)
